@@ -7,7 +7,7 @@ Please refer to my [CV](CV.pdf) for further information.
 ## Education
 - PhD, Economics | University of Strathclyde (_since October 2022_)
 - MSc, Economics | University of Leeds, the UK (_November 2020_)	 			      
-- BA, Economics | Colorado State University (_May 2015_)
+- BA, Economics | Colorado State University, the USA (_May 2015_)
 
 ## Working Papers
 **The long legacy of war on health: Evidence from Cambodia** (with Jonathan Norris and Otto Lenhart).
