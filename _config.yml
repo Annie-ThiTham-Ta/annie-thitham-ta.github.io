@@ -1,7 +1,8 @@
 title: Thi Tham Ta (Annie) # your name (or website title) here
 logo: "IMG_9304.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Ph.D. Researcher in Economics 
+  Ph.D. Researcher in Economics
+  <br><br>
   <a href="https://www.linkedin.com/in/thi-tham-ta-349236192/">👔 LinkedIn</a>
   
 remote_theme: pages-themes/minimal@v0.2.0
