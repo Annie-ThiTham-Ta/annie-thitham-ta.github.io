@@ -7,7 +7,7 @@ description: > # your text below (remove <br> elements if you don't need line br
   <br><br>
   <a href="mailto:ta-thi-tham@strath.ac.uk">📧 Email</a>
   <br><br>
-  <a href="https://github.com/Annie-ThiTham-Ta/"> <i class="fab fa-github"></i> Github</a>
+  <a href="https://github.com/Annie-ThiTham-Ta/"> :octocat: Github</a>
 
 
 remote_theme: pages-themes/minimal@v0.2.0
