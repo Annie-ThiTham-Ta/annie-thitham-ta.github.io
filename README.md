@@ -10,6 +10,8 @@ Please refer to my [CV](CV.pdf) for further information.
 - BA, Economics | Colorado State University, the USA (_May 2015_)
 
 ## Working Papers
+<hr>
+
 **The aerial bombing of Cambodia and health in the very long run** (with Jonathan Norris and Otto Lenhart).<br/>
 <small>[ <a href="#/" onclick="visib('cambodiabomb')">Abstract</a> | [Draft][cambodiabomb-draft] ] </small> 
 
