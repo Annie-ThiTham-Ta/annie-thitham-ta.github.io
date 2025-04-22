@@ -35,6 +35,16 @@ We study the spillover effects of China’s one-child policy on the health outco
 
 [china-draft]: {{site.baseurl}}/china_draft.pdf
 
+
+## Work in Progress
+**Genocide, Female Empowerment and Domestic Violence in Cambodia**<br/>
+<small>[ <a href="#/" onclick="visib('genocide')">Abstract</a> | [Draft][genocide-draft] ] </small> 
+
+<div id="genocide" style="display: none; text-align: justify; line-height: 1.2" ><small>
+The paper investigates the long-term impacts of Khmer Rouge Genocide on female empowerment and domestic violence in Cambodia. Between 1975 and 1979, the Khmer Rouge's brutal violence led to the deaths of about 1.8 million people, nearly a quarter of Cambodia’s population. Men were more likely to be killed during this period, leading to a significant shortage of young men in the early 1980s. Utilising a wide range of geo-coded datasets and a spatial regression discontinuity design, I find that this brutal reign significantly shaped female empowerment and domestic violence in Cambodian households at present. In areas with high repression intensity, women at present are less empowered in households, as they are less likely to work full-time, have limited decision-making power, and are more often controlled by their husbands. In addition, they are more likely to experience domestic violence, especially emotional violence.
+</small><br><br/></div>
+
+
 [//]: This java script is the button to show abstract
 <script>
  function visib(id) {
