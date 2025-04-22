@@ -26,7 +26,14 @@ We study the long-run impacts of local area exposures to US bombing in Cambodia 
 
 
 **The Intergenerational Effects of Sibling Size on Health: Evidence from One-Child Policy in China** (with Zhan Shi)
+<br/>
+<small>[ <a href="#/" onclick="visib('chinaonechild')">Abstract</a> | [Draft][china-draft] ] </small> 
 
+<div id="chinaonechild" style="display: none; text-align: justify; line-height: 1.2" ><small>
+We study the spillover effects of China’s one-child policy on the health outcomes of subsequent generations. Despite extensive research on the effects of family size on education, few studies have examined the policy’s effects on health, especially across generations. Focusing on urban Han Chinese from the China Family Panel Studies data,we use a reduced form regression discontinuity design (RDD) to isolate the local average treatment effect of the policy. The results indicate that children of policy-affected parents show significant improvements in physical and mental health, which can be attributed to increased parental investment and care and improved parental health outcomes. Our findings contribute to the literature on the intergenerational transmission of health and quantity-quality trade-offs, and highlight how family planning policies can have lasting health effects across generations.
+</small><br><br/></div>
+
+[china-draft]: {{site.baseurl}}/china_draft.pdf
 
 [//]: This java script is the button to show abstract
 <script>
