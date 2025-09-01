@@ -11,7 +11,7 @@ Please refer to my [CV](CV.pdf) for further information. I am a [Fellow of the H
 
 ## Working Papers
 
-**The aerial bombing of Cambodia and health in the very long run** (with Jonathan Norris and Otto Lenhart).<br/>_Under Review_.
+**The aerial bombing of Cambodia and health in the very long run** (with Jonathan Norris and Otto Lenhart)._Under Review_.
 <small>[ <a href="#/" onclick="visib('cambodiabomb')">Abstract</a> | [Draft][cambodiabomb-draft] ] </small> 
 
 <div id="cambodiabomb" style="display: none; text-align: justify; line-height: 1.2" ><small>
