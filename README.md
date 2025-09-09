@@ -1,6 +1,6 @@
 Welcome to my website!
 
-I am a PhD candidate in Economics at the University of Strathclyde, Glasgow, the UK. My supervisors are [Dr. Jonathan Norris](https://jonathan-norris.github.io/) and [Dr. Otto Lenhart](https://ottolenhart.com/). My research interests lie primarily in the areas of health economics, applied microeconomics and public health development. 
+I am a PhD candidate in Economics at the University of Strathclyde, Glasgow, the UK. My supervisors are [Dr. Jonathan Norris](https://jonathan-norris.github.io/) and [Dr. Otto Lenhart](https://ottolenhart.com/). My research interests lie primarily in the areas of health economics, applied microeconomics, political economics, and public health development. 
 
 Please refer to my [CV](CV.pdf) for further information. I am a [Fellow of the Higher Education Academy (FHEA)](Fellowship.pdf).
 
