@@ -33,7 +33,6 @@ We study the long-run impacts of local area exposures to US bombing in Cambodia 
 
 
 **The Intergenerational Effects of Sibling Size on Health: Evidence from One-Child Policy in China** (with Zhan Shi). _Under Review_.<br/>
-<br/>
 <small>[ <a href="#/" onclick="visib('chinaonechild')">Abstract</a> | [Draft][china-draft] ] </small> 
 
 <div id="chinaonechild" style="display: none; text-align: justify; line-height: 1.2" ><small>
