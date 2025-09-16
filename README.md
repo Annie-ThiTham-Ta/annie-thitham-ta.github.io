@@ -1,6 +1,6 @@
 Welcome to my website!
 
-I am a PhD candidate in Economics at the University of Strathclyde, Glasgow, the UK. My supervisors are [Dr. Jonathan Norris](https://jonathan-norris.github.io/) and [Dr. Otto Lenhart](https://ottolenhart.com/). My research interests lie primarily in the areas of health economics, applied microeconomics, political economics, and public health development. 
+I am a PhD candidate in Economics at the University of Strathclyde, Glasgow, the UK. My supervisors are [Dr. Jonathan Norris](https://jonathan-norris.github.io/) and [Dr. Otto Lenhart](https://ottolenhart.com/). My research interests lie primarily in the areas of health economics, applied microeconomics, political economics, and development economics. 
 
 Please refer to my [CV](CV.pdf) for further information. I am a [Fellow of the Higher Education Academy (FHEA)](Fellowship.pdf).
 
@@ -18,7 +18,7 @@ Please refer to my [CV](CV.pdf) for further information. I am a [Fellow of the H
 The paper investigates the long-term impacts of Khmer Rouge genocide on female empowerment and domestic violence in Cambodia. Between 1975 and 1979, the Khmer Rouge killed about 1.8 million people, nearly a quarter of Cambodia’s population, with men more likely to be killed, leaving a severe shortage of young men in the early 1980s. Utilising a wide range of geo-coded datasets and a spatial regression discontinuity design, I find that this brutal reign significantly shapes female empowerment and domestic violence in Cambodian households at present. In areas with high repression intensity, women at present are less empowered in households, as they are less likely to work full-time, have limited decision-making power, and are more often controlled by their husbands. In addition, they are more likely to experience domestic violence, especially emotional violence. The mechanisms behind these findings include post-genocide skewed sex ratios, higher fertility, lower household wealth, and changes in gender-related characteristics. Both men and women tend to marry at a younger age and attain less education. Women are more likely to work, but mostly in part-time rather than full-time jobs, while men are more likely to have multiple marriages. Overall, the paper provides evidence that mass violence not only caused short-term devastation but also left lasting legacies that continue to undermine women’s empowerment and reinforce gender inequality for generations.
 </small><br><br/></div>
 
-**The aerial bombing of Cambodia and health in the very long run** (with Jonathan Norris and Otto Lenhart). _Under Review_.<br/>
+**The aerial bombing of Cambodia and the recovery of communities** (with Jonathan Norris and Otto Lenhart). _Under Review_.<br/>
 <small>[ <a href="#/" onclick="visib('cambodiabomb')">Abstract</a> | [Draft][cambodiabomb-draft] ] </small> 
 
 <div id="cambodiabomb" style="display: none; text-align: justify; line-height: 1.2" ><small>
@@ -32,7 +32,7 @@ We study the long-run impacts of local area exposures to US bombing in Cambodia 
 <!-- [Draft](cambodia_draft.pdf) -->
 
 
-**The Intergenerational Effects of Sibling Size on Health: Evidence from One-Child Policy in China** (with Zhan Shi). _Under Review_.<br/>
+**The One-Child Policy in China and its Intergenerational Effects on Health** (with Zhan Shi). _Under Review_.<br/>
 <small>[ <a href="#/" onclick="visib('chinaonechild')">Abstract</a> | [Draft][china-draft] ] </small> 
 
 <div id="chinaonechild" style="display: none; text-align: justify; line-height: 1.2" ><small>
