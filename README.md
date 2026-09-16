@@ -1,13 +1,15 @@
 Welcome to my website!
 
-I am a PhD candidate in Economics at the University of Strathclyde, Glasgow, the UK. My supervisors are [Dr. Jonathan Norris](https://jonathan-norris.github.io/) and [Dr. Otto Lenhart](https://ottolenhart.com/). My research interests lie primarily in the areas of health economics, applied microeconomics, political economics, and development economics. 
+I am a Research Fellow in the Health Economics Research Unit (HERU) at the University of Aberdeen. I received my PhD in Economics from the University of Strathclyde, Glasgow, where I was supervised by [Dr. Jonathan Norris](https://jonathan-norris.github.io/) and [Dr. Otto Lenhart](https://ottolenhart.com/). 
+
+My research interests lie primarily in health economics, applied microeconomics, development economics, and political economy. My work uses applied microeconometric methods to study questions related to health, labour markets, conflict, demographic policy, and long-run economic development.
 
 Please refer to my [CV](CV.pdf) for further information. With extensive experience in teaching Business and Economics, I am also a [Fellow of the Higher Education Academy (FHEA)](Fellowship.pdf).
 
 ## Education
-- PhD, Economics | University of Strathclyde (_since October 2022_)
-- MSc, Economics | University of Leeds, the UK (_November 2020_)	 			      
-- BA, Economics and Business Administration | Colorado State University, the USA (_May 2015_)
+- PhD in Economics | University of Strathclyde (_July 2026_)
+- MSc in Economics | University of Leeds, the UK (_November 2020_)	 			      
+- BA in Economics and Business Administration | Colorado State University, the USA (_May 2015_)
 
 ## Working Papers
 
@@ -20,7 +22,7 @@ The paper investigates the long-term impacts of Khmer Rouge genocide on female e
 
 [genocide-draft]: {{site.baseurl}}/Ta_JMP.pdf
 
-**The aerial bombing of Cambodia and the recovery of communities** (with Jonathan Norris and Otto Lenhart). _Under Review_.<br/>
+**The aerial bombing of Cambodia and the recovery of communities** (with Jonathan Norris and Otto Lenhart). _R&R at Journal of Economic Growth_.<br/>
 <small>[ <a href="#/" onclick="visib('cambodiabomb')">Abstract</a> | [Draft][cambodiabomb-draft] ] </small> 
 
 <div id="cambodiabomb" style="display: none; text-align: justify; line-height: 1.2" ><small>
